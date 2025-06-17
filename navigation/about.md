@@ -4,11 +4,16 @@ title: About
 permalink: /about/
 comments: true
 ---
+# Vibha Mandayam
 
-## As a conversation Starter
 
-Here are some places I have lived.
+- Playing piano 
+- Reading
+- Swimmming
 
+
+My favorite food is **burritos**.
+![icecream picture]({{ site.baseurl }}/images/icecream.jpeg)
 <comment>
 Flags are made using Wikipedia images
 </comment>
