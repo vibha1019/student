@@ -6,14 +6,25 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is John.
+Hi! My name is Vibha Mandayam
 
-| Role         | Name     | Repo Location                       | Stream                | Repo Name |
-|--------------|----------|-------------------------------------|-----------------------|-----------|
-| Scrum Master | John     | github.com/jm1021/student           | upstream (OCS fork)   | student   |
-| Scrummer     | Torin    | github.com/torin/student            | downstream (fork)     | student   |
-| Scrummer     | Avantika | github.com/avantika/student         | downstream (fork)     | student   |
-| Scrummer     | Aadit    | github.com/aaadit/student           | downstream (fork)     | student   |
+# Welcome to AP Computer Science A
+
+<img src="{{ site.baseurl }}/images/apcsa.png" style="width: 80%; max-width: 800px; border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+
+<a href="{{site.baseurl}}/mermaid" class="button small" style="background-color: #4bb36b">
+    Mermaid Diagram
+</a>
+
+| Role                   | Name     | Repo Location                                     | Stream                | Repo Name |
+|------------------------|----------|---------------------------------------------------|-----------------------|-----------|
+| Scrum Master           | Risha G  | github.com/blackstar3092/student                        | upstream (OCS fork)   | student   |
+| Assistant Scrum Master| Anvay V  | github.com/CyberLord09/student                    | downstream (fork)     | student   |
+| Scrummer               | Ruta S   | github.com/ruta-sir/student                      | downstream (fork)     | student   |
+| Scrummer               | Vibha M  | github.com/vibha1019/student                                   |           downstream (fork)            |       student    |
+| Scrummer               | Aadi B   | github.com/aadibhat09/student                    | downstream (fork)     | student   |
+| Scrummer               | Neil C   | github.com/neil9674/student                      | downstream (fork)     | student   |
+
 
 
 ## Links to Learning
@@ -48,9 +59,10 @@ Hi! My name is John.
 
 <br>
 
-<!-- Contact Section -->
-### Get in Touch
+### Checkpoints
 
-> Feel free to reach out if you'd like to collaborate or learn more about our work.
-
-<p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+| Checkpoint Name | Link |
+|-----------------|------|
+| Retrospective      | [Link]({{site.baseurl}}/sprint1_retrospective/) |
+| Example 2       | [Link](#) |
+| Example 3       | [Link](#) |
