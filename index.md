@@ -66,6 +66,8 @@ Hi! My name is Vibha Mandayam
 
 | Checkpoint Name | Link |
 |-----------------|------|
+| Sprint 1 Close      | [Link]({{site.baseurl}}/sprint1_retrospective/) |
+| Example 2       | [Link](#) |
 | Sprint 2 Individual Checkpoint      | [Link]({{site.baseurl}}//sprint2_review//) |
 | Trimester 1 Retrospective       | [Link]({{site.baseurl}}/tri1Retrospective/) |
 | Example 3       | [Link](#) |
