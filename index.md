@@ -1,6 +1,6 @@
 ---
 layout: base
-title: John Tab 
+title: Vibha AP CSA
 hide: true
 ---
 
@@ -10,11 +10,11 @@ Hi! My name is Vibha Mandayam
 
 # Welcome to AP Computer Science A
 
-<img src="{{ site.baseurl }}/images/apcsa.png" style="width: 80%; max-width: 800px; border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+<img src="{{ site.baseurl }}/images/apcsa.png" 
+     style="width: 80%; max-width: 800px; border-radius: 15px; 
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15); 
+            border: 4px solid #2A7DB1; padding: 8px; background-color: #ffffff;">
 
-<a href="{{site.baseurl}}/mermaid" class="button small" style="background-color: #4bb36b">
-    Mermaid Diagram
-</a>
 
 | Role                   | Name     | Repo Location                                     | Stream                | Repo Name |
 |------------------------|----------|---------------------------------------------------|-----------------------|-----------|
@@ -55,6 +55,9 @@ Hi! My name is Vibha Mandayam
 </a>
 <a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #2A7DB1">
     <span style="color: #000000">Turtle</span>
+</a>
+<a href="{{site.baseurl}}/mermaid" class="button small" style="background-color: #2A7DB1">
+    Mermaid Diagram
 </a>
 
 <br>
