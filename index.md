@@ -69,3 +69,12 @@ Hi! My name is Vibha Mandayam
 | Sprint 2 Individual Checkpoint      | [Link]({{site.baseurl}}//sprint2_review//) |
 | Example 2       | [Link](#) |
 | Example 3       | [Link](#) |
+
+
+### Homework
+
+| Checkpoint Name | Link |
+|-----------------|------|
+| 1.1 Algorithms HW      | [Link]({{site.baseurl}}/csa_unit_01/1_1/homework/) |
+| Example 2       | [Link](#) |
+| Example 3       | [Link](#) |
