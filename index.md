@@ -75,6 +75,6 @@ Hi! My name is Vibha Mandayam
 
 | Checkpoint Name | Link |
 |-----------------|------|
-| 1.1 Algorithms HW      | [Link]({{site.baseurl}}/csa_unit_01/1_1/homework/) |
+| 1.1 Algorithms HW      | [Link]({{site.baseurl}}/csa/unit_01/1_1/homework) |
 | Example 2       | [Link](#) |
 | Example 3       | [Link](#) |
