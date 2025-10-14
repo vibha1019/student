@@ -77,4 +77,17 @@ Hi! My name is Vibha Mandayam
 |-----------------|------|
 | 1.1 Algorithms HW | [Link]({{site.baseurl}}/csa/unit_01/1_1/homework) |
 | 1.2 HW           | [Link]({{site.baseurl}}/csa/unit_01/1_2/homework) |
-| 1.5 Casting Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_5/homework) |
+| 1.3  HW        | [Link]({{site.baseurl}}/csa/unit_01/1_3/homework) |
+| 1.4  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_4/homework) |
+| 1.5  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_5/homework) |
+| 1.6  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_6/homework) |
+| 1.7  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_7/homework) |
+| 1.8  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_8/homework) |
+| 1.9  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_9/homework) |
+| 1.10  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_10/homework) |
+| 1.11  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_11/homework) |
+| 1.12  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_12/homework) |
+| 1.13  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_13/homework) |
+| 1.14  Hw        | [Link]({{site.baseurl}}/csa/unit_01/1_14/homework) |
+
+
