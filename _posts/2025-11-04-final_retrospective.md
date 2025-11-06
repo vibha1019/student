@@ -319,7 +319,33 @@ blockquote {
     <li>Review College Board's inheritance and polymorphism materials</li>
     <li>Time myself on practice questions to improve efficiency</li>
     <li>Work through FRQs (Free Response Questions) that involve these weak topics</li>
+    <li>Use the homework assignments as study resources to reinforce concepts</li>
   </ul>
+</div>
+
+<div class="content-block">
+  <h3>Homework Resources for Study</h3>
+  <p>I plan to revisit these homework assignments to reinforce the concepts I struggled with on the MCQ:</p>
+</div>
+
+<div class="section-divider">
+  <h2>Reflection on Teacher Feedback</h2>
+</div>
+
+<div class="content-block">
+  <h3>Areas for Personal Growth</h3>
+  <p>I received feedback that while I am reliable, I sometimes fade into the background and let others take the lead in group work. Looking back at last year, I was able to stand out more in my group of 6 as scrum master, where I took on more leadership responsibilities and held myself accountable.</p>
+  
+  <p>For next trimester, I want to approach the project with a different mindset:</p>
+  <ul>
+    <li>Be more proactive in taking on challenging tasks rather than waiting for assignments</li>
+    <li>Speak up more during team discussions and contribute ideas actively</li>
+    <li>Hold myself accountable by setting personal deadlines and meeting them consistently</li>
+    <li>Take initiative in identifying problems and proposing solutions</li>
+    <li>Make my contributions more visible by documenting my work and communicating progress</li>
+  </ul>
+  
+  <p>I understand that being reliable is not enough - I need to be a visible, active contributor who drives the project forward. This trimester showed me that I have the technical skills; next trimester, I need to demonstrate leadership and accountability more consistently.</p>
 </div>
 
 </div>
