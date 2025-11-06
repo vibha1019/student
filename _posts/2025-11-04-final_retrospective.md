@@ -167,8 +167,8 @@ blockquote {
 </div>
 
 <div class="content-block">
+  <img src="{{site.baseurl}}/images/natm_picture.png" alt="GitHub Commit History" style="max-width: 100%; height: auto;">
   <h3>Positive Feedback</h3>
-  
   <div class="feedback-item">
     <blockquote>"This presentation is very interactive, hooks in the audience greatly."</blockquote>
     <p>Our gamified approach successfully engaged visitors and made learning more interactive</p>
