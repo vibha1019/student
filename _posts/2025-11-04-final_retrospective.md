@@ -315,6 +315,13 @@ blockquote {
 </div>
 
 <div class="content-block">
+  <h3>Content Performance</h3>
+  <img src="{{site.baseurl}}/images/content_performnce.png" alt="GitHub Commit History" style="max-width: 100%; height: auto;">
+  <h3>Skill Performance Graph</h3>
+  <img src="{{site.baseurl}}/images/skill_performance.png" alt="GitHub Commit History" style="max-width: 100%; height: auto;">
+</div>
+
+<div class="content-block">
   <h3>Action Plan for Next Trimester</h3>
   <ul>
     <li>Complete additional practice problems on recursion and sorting algorithms</li>
