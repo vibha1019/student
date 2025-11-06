@@ -240,7 +240,9 @@ blockquote {
 
 <div class="content-block">
   <h3>GitHub Commit History</h3>
-  <p>[Insert screenshot of commit history here]</p>
+  <img src="{{site.baseurl}}/images/commit_graph.png" alt="GitHub Commit History" style="max-width: 100%; height: auto;">
+  <h3>OCS Commit Graph</h3>
+  <img src="{{site.baseurl}}/images/ocs_commit_graph.png" alt="GitHub Commit History" style="max-width: 100%; height: auto;">
 </div>
 
 <div class="content-block">
