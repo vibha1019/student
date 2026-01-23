@@ -67,5 +67,12 @@ Hi! My name is Vibha Mandayam
 | Checkpoint Name | Link |
 |-----------------|------|
 | Sprint 1 Close      | [Link]({{site.baseurl}}/sprint1_retrospective/) |
-| Example 2       | [Link](#) |
-| Example 3       | [Link](#) |
+
+
+### Homework
+
+| Checkpoint Name | Link |
+|-----------------|------|
+| 2024 FRQ      | [Link]({{site.baseurl}}//apcsa/frq/2024/2/) |
+
+
