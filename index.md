@@ -73,6 +73,6 @@ Hi! My name is Vibha Mandayam
 
 | Checkpoint Name | Link |
 |-----------------|------|
-| 2024 FRQ      | [Link]({{site.baseurl}}/apcsa/frq/2024/2) |
-
+| 2024 FRQ 2     | [Link]({{site.baseurl}}/apcsa/frq/2024/2) |
+| 2024 FRQ 1     | [Link]({{site.baseurl}}/apcsa/frq/2024/1) |
 
