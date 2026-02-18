@@ -67,6 +67,7 @@ Hi! My name is Vibha Mandayam
 | Checkpoint Name | Link |
 |-----------------|------|
 | Sprint 1 Close      | [Link]({{site.baseurl}}/sprint1_retrospective/) |
+| Trimester 2 Review   | [Link]({{site.baseurl}}/tri2Retrospective/) |
 
 
 ### Homework
@@ -76,5 +77,6 @@ Hi! My name is Vibha Mandayam
 | 2024 FRQ 2     | [Link]({{site.baseurl}}/apcsa/frq/2024/2) |
 | 2024 FRQ 1     | [Link]({{site.baseurl}}/apcsa/frq/2024/1) |
 | 2019 FRQ 4     | [Link]({{site.baseurl}}/apcsa/frq/2019/4) |
+
 
 
