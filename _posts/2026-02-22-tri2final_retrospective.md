@@ -133,7 +133,7 @@ blockquote {
 </div>
 
 <div class="content-block">
-  <img src="{{site.baseurl}}/images/natm_picture_2.png" alt="GitHub Commit History" style="max-width: 100%; height: auto;">
+  <img src="{{site.baseurl}}/images/natm_picture2.png" alt="GitHub Commit History" style="max-width: 100%; height: auto;">
   <h3>Positive Feedback</h3>
 
   <div class="feedback-item">
