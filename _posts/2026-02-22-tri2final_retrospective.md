@@ -373,3 +373,51 @@ blockquote {
   <h3>Homework Resources for Study</h3>
   <p>I will revisit assignments involving object-oriented design, ArrayLists, and debugging exercises to directly target Skills 2.B and 3.D, ensuring my implementation skills match my strong analytical abilities.</p>
 </div>
+
+<div class="section-divider">
+  <h2>FRQ Homework — Individual Practice Log</h2>
+</div>
+
+<div class="content-block">
+  <p>This section tracks my Free Response Question (FRQ) practice, key takeaways, and targeted improvement goals over time. The goal is not just completion, but identifying patterns in mistakes and strengthening implementation skills.</p>
+</div>
+
+<div class="content-block">
+  <h3>FRQ Tracking Table</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>FRQ Name</th>
+        <th>Key Lesson Learned</th>
+        <th>HW Blog Link</th>
+        <th>What I Will Practice Next</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>2024 FRQ 1 — Feeder Simulation</strong></td>
+        <td>Translating written specifications into precise control flow; careful handling of randomness ranges and early stopping conditions</td>
+        <td><a href="https://vibha1019.github.io/student/apcsa/frq/2024/1" target="_blank">View Blog</a></td>
+        <td>More simulation problems + avoiding off-by-one errors in random ranges and loop conditions</td>
+      </tr>
+      <tr>
+        <td><strong>2024 FRQ 2 — Scoreboard Class</strong></td>
+        <td>Managing object state across method calls and using boolean toggling to track turn-based logic</td>
+        <td><a href="https://vibha1019.github.io/student/apcsa/frq/2024/2" target="_blank">View Blog</a></td>
+        <td>More state-tracking class problems and constructor/getter interaction tracing</td>
+      </tr>
+      <tr>
+        <td><strong>2017 FRQ 3 — Phrase Methods</strong></td>
+        <td>Using helper methods repeatedly and string slicing with <code>substring</code> to rebuild data correctly</td>
+        <td><a href="https://pages.opencodingsociety.com/csa/frqs/2017/3" target="_blank">View Blog</a></td>
+        <td>More string manipulation and loop-until-sentinel (-1) search patterns</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="content-block">
+  <h3>Purpose</h3>
+  <p>This log documents growth across FRQs and highlights deliberate, skill-based improvement. By identifying recurring weaknesses (such as simulation precision, object state management, and string traversal logic), I can intentionally practice those areas and track measurable progress over time.</p>
+</div>
