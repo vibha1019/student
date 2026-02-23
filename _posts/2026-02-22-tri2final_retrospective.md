@@ -123,39 +123,6 @@ blockquote {
 </style>
 
 <div class="retrospective-container">
-
-<div class="intro-text">
-  At the beginning of the year, I did not know any Java or how to make a Spring Boot project. Through this project, I learned how to make a full stack frontend-backend project with Java and gained hands-on experience with REST APIs and client-server communication.
-</div>
-
-<div class="section-divider">
-  <h2>Skills Acquired: Three Sprint Journey</h2>
-</div>
-
-<div class="content-block">
-  <h3>Development Tools</h3>
-  <ul class="tool-list">
-    <li><strong>VSCode:</strong> Set up my development environment and learned to work with Java extensions and integrated debugging tools</li>
-    <li><strong>GitHub:</strong> Learned version control practices including commits, push/pull operations, and team collaboration through repositories</li>
-    <li><strong>Spring Boot:</strong> Configured backend server architecture and learned about REST APIs, endpoints, and request/response handling</li>
-    <li><strong>Postman:</strong> Used to test API endpoints during development and debug backend functionality</li>
-  </ul>
-</div>
-
-<div class="content-block">
-  <h3>Programming Fundamentals</h3>
-  <ul class="tool-list">
-    <li><strong>JavaScript:</strong> Worked extensively with JavaScript for frontend development, including DOM manipulation, event handling, and the fetch API</li>
-    <li><strong>Java:</strong> Learned object-oriented programming concepts such as classes, objects, methods, and data structures</li>
-    <li><strong>API Integration:</strong> Connected frontend JavaScript to Java Spring Boot backend using RESTful endpoints and handled JSON data parsing</li>
-    <li><strong>Full Stack Development:</strong> Understood how frontend and backend communicate and work together in a complete application</li>
-  </ul>
-</div>
-
-<div class="content-block">
-  <h3>Project Management</h3>
-  <p>Learned how to manage a project from start to finish, including planning features, coordinating with team members, and delivering a working product.</p>
-</div>
 <div class="section-divider">
   <h2>Night at the Museum</h2>
 </div>
