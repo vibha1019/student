@@ -111,7 +111,116 @@ Final review before the AP exam:
 | Practice Exam 2 MCQ | 34/42 |
 
 ---
+## AP CSA Review: Traversing a 2D Array
 
-# Reflection
+{% capture challenge1 %}
+This was one of the topics I reviewed before the AP CSA exam. The method traverses a 2D array and calculates the total sum of all elements.
+{% endcapture %}
+
+{% capture code1 %}
+public class Main {
+    public static int totalSum(int[][] values) {
+        int sum = 0;
+
+        for (int row = 0; row < values.length; row++) {
+            for (int col = 0; col < values[row].length; col++) {
+                sum += values[row][col];
+            }
+        }
+
+        return sum;
+    }
+
+    public static void main(String[] args) {
+        int[][] numbers = {
+            {1, 2, 3},
+            {4, 5, 6}
+        };
+
+        System.out.println(totalSum(numbers));
+    }
+}
+{% endcapture %}
+
+{% include code-runner.html
+   runner_id="apcsa1"
+   language="java"
+   challenge=challenge1
+   code=code1
+%}
+
+---
+
+## AP CSA Review: ArrayList Traversal
+
+{% capture challenge2 %}
+I also reviewed ArrayList traversal patterns and modifying values during iteration.
+{% endcapture %}
+
+{% capture code2 %}
+import java.util.ArrayList;
+
+public class Main {
+    public static void doubleValues(ArrayList<Integer> nums) {
+        for (int i = 0; i < nums.size(); i++) {
+            nums.set(i, nums.get(i) * 2);
+        }
+    }
+
+    public static void main(String[] args) {
+        ArrayList<Integer> numbers = new ArrayList<>();
+
+        numbers.add(1);
+        numbers.add(2);
+        numbers.add(3);
+
+        doubleValues(numbers);
+
+        System.out.println(numbers);
+    }
+}
+{% endcapture %}
+
+{% include code-runner.html
+   runner_id="apcsa2"
+   language="java"
+   challenge=challenge2
+   code=code2
+%}
+
+---
+
+## AP CSA Review: String Methods
+
+{% capture challenge3 %}
+Before the exam, I reviewed common String methods like `.substring()` and `.split()`.
+{% endcapture %}
+
+{% capture code3 %}
+public class Main {
+    public static void main(String[] args) {
+        String sentence = "AP CSA Exam Review";
+
+        String[] words = sentence.split(" ");
+
+        for (String word : words) {
+            System.out.println(word);
+        }
+
+        System.out.println(sentence.substring(0, 2));
+    }
+}
+{% endcapture %}
+
+{% include code-runner.html
+   runner_id="apcsa3"
+   language="java"
+   challenge=challenge3
+   code=code3
+%}
+
+---
+# Post Test Reflection
 
 Now that I’ve taken the AP CSA exam, I think reviewing ArrayLists, traversing 2D arrays, and string methods like `.split()` helped a lot. Repeated FRQ practice made it easier to recognize common patterns quickly, and the AP Classroom MCQs helped me get more comfortable with AP-style timing and problem solving.
+
