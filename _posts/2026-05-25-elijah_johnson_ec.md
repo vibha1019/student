@@ -41,10 +41,6 @@ One of the most interesting things I saw was how SafeBallot was used as an educa
 
 One specific thing I learned was the importance of putting yourself out there and starting before you feel completely ready. Elijah explained that “you don’t have to have the whole staircase to start,” and that success comes from taking initiative even when things feel uncertain. I also learned that rejection is a normal part of entrepreneurship, and that it is more important to focus on the people who believe in your ideas instead of the ones who say no.
 
-## What Surprised Me
-
-
-
 ## What Inspired Me
 
 I was most inspired by Elijah’s message about just getting started. Sometimes I feel nervous about working on projects or opportunities that I do not already have experience in because I am afraid of failing or not being qualified enough. However, Elijah explained that many successful people begin without having everything figured out, and that growth comes from trying new things and learning through the process.
@@ -73,4 +69,4 @@ Overall, this event was meaningful because it gave me a new perspective on entre
 
 ## Biggest Takeaway
 
-> My biggest takeaway was: You do not need to have everything figured out before you begin — the most important thing is to start and put yourself out there.
+> My biggest takeaway was: You do not need to have everything figured out before you begin, the most important thing is to start and put yourself out there.
